@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-health-coding-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generatePartitionKey.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olvisdevalencia/clipboard-health-coding-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olvisdevalencia/clipboard-health-coding-exercise/issues"
+  },
+  "homepage": "https://github.com/olvisdevalencia/clipboard-health-coding-exercise#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jest": "^29.5.0"
+  }
+}
